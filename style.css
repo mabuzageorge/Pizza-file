@@ -2,7 +2,7 @@ body {
     background-color: lightseagreen;
 }
 .Medium_Pizza {
-    background-color: yellowgre;
+    background-color: lightsalmon;
 }
 .Large_Pizza {
     background-color: burlywood;
@@ -24,8 +24,8 @@ body {
     flex: 1;
 }
 .Pizza {
-    padding: 1em;
-    margin: 1em;
+    padding: 2em;
+    margin: 2em;
     width: 300px;
     border-radius: 1em;
 }
