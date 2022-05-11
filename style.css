@@ -1,0 +1,39 @@
+body {
+    background-color: lightseagreen;
+}
+.Medium_Pizza {
+    background-color: yellowgre;
+}
+.Large_Pizza {
+    background-color: burlywood;
+}
+.Small_Pizza {
+    background-color: palevioletred;
+}
+.footer {
+    background-color: yellow;
+    padding: 2em;
+    margin: 2em;
+    border-radius: 1em;
+    display: flex;
+}
+.side-bar {
+    flex: 1;
+}
+.Contact_Details {
+    flex: 1;
+}
+.Pizza {
+    padding: 1em;
+    margin: 1em;
+    width: 300px;
+    border-radius: 1em;
+}
+@media (min-width: 768px) {
+    .Pizza {
+        display:inline-block;
+    }
+}
+
+
+
